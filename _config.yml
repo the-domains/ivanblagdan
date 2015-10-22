@@ -1,0 +1,23 @@
+name: ivanblagdan
+favicon: null
+layout_spectrum: 0.5161913798656315
+typography_spectrum: 0.34774810913950205
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.243943759938702
+  lightness: 0.30534982681274414
+  saturation: 0.36216677352786064
+  rhythmicContrast: 0.8828346938826144
+purpose: []
