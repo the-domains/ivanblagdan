@@ -1,24 +1,41 @@
-name: ivanblagdan
-favicon: null
-layout_spectrum: 0.58692
-typography_spectrum: 0.34774810913950205
 title: "A blog that doesn't cover dancing."
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.3621667735278606
+  lightness: 0.3053498268127441
+  brandStrength: 0.3154122
+  brandColors:
+    - '#1E3A6E'
+    - '#778899'
+    - '#C6D7E9'
+    - '#E0B580'
+    - '#BD4C53'
+  rhythmicContrast: 0.8828346938826144
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: ivanblagdan
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors: []
-  brandStrength: 0.5
-  lightness: 0.30534982681274414
-  saturation: 0.36216677352786064
-  rhythmicContrast: 0.8828346938826144
-purpose: []
+typography_spectrum: 0.2132616
+layout_spectrum: 0.58692
